@@ -1,5 +1,5 @@
 
-# FAQ_Response_System - UiPath Studio Implementation
+# FAQ-Genie - UiPath Studio Implementation
 
 ## Overview
 This project is designed to automate the process of responding to frequently asked questions (FAQs) via email. The solution leverages UiPath Studio for workflow automation, integrates with an AI model for generating responses, and uses UiPath Orchestrator for deployment and management.
