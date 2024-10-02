@@ -5,7 +5,7 @@
 This project is designed to automate the process of responding to frequently asked questions (FAQs) via email. The solution leverages UiPath Studio for workflow automation, integrates with an AI model for generating responses, and uses UiPath Orchestrator for deployment and management.
 
 ## Table of Contents
-1. [Project Setup](#project-setup)
+1. [Project Setup](#project-setu)
 2. [Email Monitoring](#email-monitoring)
 3. [Query Extraction](#query-extraction)
 4. [Knowledge Base Query](#knowledge-base-query)
